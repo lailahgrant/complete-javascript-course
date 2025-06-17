@@ -5,8 +5,13 @@
 
 > ### Final project is the *Amazon website* - with fully functional multiple pages
 
+#### Smaller projects
+- Rock paper scissors
+- Calculator
+- Todo list
+
 ### What I'll Learn
- JavaScript Basics
+#### JavaScript Basics
 - Numbers and Math
 - Strings
 - Variables
@@ -16,7 +21,7 @@
 - Arrays and Loops
 - HTML, CSS, JS Together
 
-Advanced Features
+#### Advanced Features
 - Modules
 - Testing
 - Object-Oriented Programming (OOP)
@@ -26,5 +31,8 @@ Advanced Features
 - Async Await
 - > Build a complex project *Amazon website* with all these principles.
 
-Exercises
+
+
+#### Exercises
 - 250 exercises in this tutorial
+- 
