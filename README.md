@@ -48,30 +48,7 @@
 
 <hr>
 
-#### Numbers and Math
-> Order of Operations
-> 2 + 2
-> 2 - 2
-> 10 / 2
-> 10 * 3 
-> All these are **Operations**
-> +, -, /, * These are **operators**
->
-> In Math, 
-> * /  are done first, 
-> + - are done after 
-> This is called the **operator precedence**.
->
-> * / have the same priority
-> 2 * 3 / 5 
-> In Js, calculate from **left to right**
->
-> + - have the same priority
-> 2 - 3 + 5 
-> In Js, calculate from **left to right**
->
-> We can use  brackets () to control which part gets calculated first.
-> (1+1)*3
->
+[This is the project we are referreing to](https://supersimple.dev/projects/amazon)
+
 
 
